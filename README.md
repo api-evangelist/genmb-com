@@ -1,4 +1,4 @@
-# genmb-com
+# GenMB
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-genmb-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://genmb.com/
+GenMB is a technology company currently developing its online presence. The website indicates the brand is under construction, suggesting upcoming services or products. While detailed information is not yet available, the placeholder page confirms the domain is owned by the company and will likely host API documentation and developer resources in the future.
+
+**Areas:** Company · Technology · API · Development · Placeholder
+
+## GenMB on APIs.io
+
+Everything profiled for GenMB is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/genmb-com/](https://apis.io/providers/genmb-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [GenMB 6f1c2a9e4b7d40e3a5c8f2b19d0e7a64.txt API](https://apis.io/apis/genmb-com/genmb-com-6f1c2a9e4b7d40e3a5c8f2b19d0e7a64-txt-api/) — The 6f1c2a9e4b7d40e3a5c8f2b19d0e7a64.txt API from GenMB — 1 operation(s) for 6f1c2a9e4b7d40e3a5c8f2b19d0e7a64.txt.
+- [GenMB Com Default API](https://apis.io/apis/genmb-com/genmb-com-default-api/) — The Com Default API from GenMB — 2 operation(s) for com default.
+- [GenMB GenMB Deploy Service API](https://apis.io/apis/genmb-com/genmb-com-genmb-deploy-service-api/) — The GenMB Deploy Service API from GenMB — 2 operation(s) for genmb deploy service.
+- [GenMB Health API](https://apis.io/apis/genmb-com/genmb-com-health-api/) — The Health API from GenMB — 1 operation(s) for health.
+- [GenMB Llms Full.txt API](https://apis.io/apis/genmb-com/genmb-com-llms-full-txt-api/) — The Llms Full.txt API from GenMB — 1 operation(s) for llms full.txt.
+- [GenMB Llms.txt API](https://apis.io/apis/genmb-com/genmb-com-llms-txt-api/) — The Llms.txt API from GenMB — 1 operation(s) for llms.txt.
+- [GenMB Robots.txt API](https://apis.io/apis/genmb-com/genmb-com-robots-txt-api/) — The Robots.txt API from GenMB — 1 operation(s) for robots.txt.
+- [GenMB Sitemap.xml API](https://apis.io/apis/genmb-com/genmb-com-sitemap-xml-api/) — The Sitemap.xml API from GenMB — 1 operation(s) for sitemap.xml.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [GenMB Agentic Access](https://apis.io/agentic-access/genmb-com/genmb-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Genmb Com Context](https://apis.io/jsonld/genmb-com/genmb-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [GenMB API Rules](https://apis.io/rules/genmb-com/genmb-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [GenMB Domain Security](https://apis.io/security/genmb-com/genmb-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://genmb.com/)
+
+## API Evangelist rating
+
+**Kin Score 25.4** — emerging · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 41.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 27.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/genmb-com/](https://apis.io/providers/genmb-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GenMB: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/genmb-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
